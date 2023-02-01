@@ -17,4 +17,4 @@
 
 * Склонировать данный репозиторий
 > git clone git path
-* Заупстить команду npm install для package.json
+* Запустить команду npm install для package.json
